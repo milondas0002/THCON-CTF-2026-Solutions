@@ -1,0 +1,2 @@
+Name: PNG is a lie (part 1/2) 
+Description: Some members of the COPS We have found this file lying on a very sus USB stick. Maybe try to find something hidden in it ? Or don't, I mean nobody does steganography anyway. this file was given in the chall
